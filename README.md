@@ -10,7 +10,8 @@ RESTful Webservice build along Maven
 
 1. $ mvn eclipse:eclipse
 2. Import into Eclipse via existing projects into workspace option.
-3. Done.
+3. Depoly on Apache Tomcat ( I used Apache Tomcat 9).
+4. Done.
 
 
 ##### Following are the GET and POST URLs which you can use to check the response
