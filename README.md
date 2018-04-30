@@ -14,6 +14,6 @@ RESTful Webservice build along Maven
 
 
 ##### Following are the GET and POST URLs which you can use to check the response
-http://localhost:8080/MovieService/rest/Movies/get/Ragnarok
-http://localhost:8080/MovieService/rest/Movies/get/Thor
-http://localhost:8080/MovieService/rest/Movies?movieName=Avengers-InfinityWar&releaseDate=27-April-208
+* http://localhost:8080/MovieService/rest/Movies/get/Ragnarok
+* http://localhost:8080/MovieService/rest/Movies/get/Thor
+* http://localhost:8080/MovieService/rest/Movies?movieName=Avengers-InfinityWar&releaseDate=27-April-208
